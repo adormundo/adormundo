@@ -1,15 +1,15 @@
 # Hi 👋, I'm Álvaro
  I'm a developer passionate about creating creative and efficient solutions to complex problems. Passionate about technology, I am constantly looking for interesting challenges that will allow me to expand my knowledge and skills.<br>
  
-🌱 I’m currently learning **$PHP** . **Laravel** . **Vue**<br>
+🌱 I’m currently learning **Java** + **Spring** + **Vue**<br>
 💬 Ask me about **Backend**<br>
 📫 How to reach me **[adormundo@gmail.com](mailto:adormundo@gmail.com)<br>**
 ⚡ Fun fact: Did you know that the average programmer can survive several weeks just on the caffeine reserves found on his keyboard? It's the famous "developer diet". All kidding aside, be sure to eat healthy and balanced while working on your coding projects! 😉<br> 
 🇧🇷 Brazilian survivor <br>
 
 ## 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
